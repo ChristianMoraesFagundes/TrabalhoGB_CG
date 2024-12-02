@@ -1,1 +1,1 @@
-Código principal no camhinho GB\Hello3D- Curvas
+Código principal no caminho GB\Hello3D- Curvas
